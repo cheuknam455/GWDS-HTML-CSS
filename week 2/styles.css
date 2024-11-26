@@ -3,16 +3,12 @@ body{
 }
 
 p{
-    font-family: monospace;
-    text-align: center;
     color: lightpink
 }
 
 h1,h2,h3,h4,h5,h6 {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: lightyellow;
     font-style: italic;
-    text-align: right;
 }
 
 h1 {
@@ -47,14 +43,14 @@ li {
     font-weight: bold;
 }
 
-.fave{
+.fave {
     color:orangered;
 }
 
-.pizza{
+.pizza {
     width: 50%;
 }
 
-a{
+a {
     color: white;
 }
